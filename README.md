@@ -24,6 +24,7 @@ Because `g` changes your active terminal directory, it requires two parts to wor
 Clone this repository and compile the Go code.
 ```bash
 go build -o g main.go
+```
 
 ### Step 2: Add the Shell Wrapper
 A child process (the Go binary) cannot change the directory of a parent process (your terminal). To fix this, add the following wrapper to your shell profile. It captures the path found by G.A.T.E. and uses native OS commands to jump you there.
