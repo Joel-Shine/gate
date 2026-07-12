@@ -16,6 +16,9 @@
 
 ---
 
+## 🖼️ Demo
+![Demo for gate](https://github.com/Joel-Shine/gate/blob/main/g-demo.png)
+
 ## 🚀 Installation & Setup
 
 Because `g` changes your active terminal directory, it requires two parts to work: the compiled binary, and a tiny shell wrapper.
