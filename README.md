@@ -1,8 +1,10 @@
-# 🌌 G.A.T.E. (Go Accelerated Terminal Explorer)
+<div align="center">
+    
+# GATE (Go Accelerated Terminal Explorer) <==> `g`
 
-**G.A.T.E.** (invoked simply as `g`) is a blazing-fast, cross-platform CLI tool that acts as a portal to anywhere on your hard drive. 
+**One-stop solution for your file searching nightmares!**
 
-Written in Go, it replaces the friction of aggressively `cd`-ing and `ls`-ing through directories with an instant, fuzzy-searchable interface. It learns your habits via frecency (frequency + recency) math, filters by extensions, and can even scan inside files to find exact content matches. 
+</div>
 
 ## ✨ Features
 * **Fuzzy Jumping:** Type a partial name, hit enter, and instantly teleport to the file or directory.
