@@ -1,6 +1,7 @@
 <div align="center">
     
-# GATE (Go Accelerated Terminal Explorer) <==> `g`
+# GATE
+## Go Accelerated Terminal Explorer ( `g` for short)
 
 **One-stop solution for your file searching nightmares!**
 
